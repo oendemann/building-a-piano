@@ -12,7 +12,7 @@ A webpage that features a piano designed using CSS.
 
 ## About The Page
 
-A simple webpage that features a non-interactive piano. Part of the web design course on freeCodeCamp, with a focus on responsive web design in this project, as the piano resizes as the window resizes.
+A simple webpage that features a non-interactive piano. Part of the web design course on freeCodeCamp, with a focus on responsive web design in this project, as the piano resizes when the window resizes.
 
 ---
 
