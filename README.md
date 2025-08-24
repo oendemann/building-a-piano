@@ -26,7 +26,7 @@ A simple webpage that features a non-interactive piano. Part of the web design c
 ## What I Learned
 
 1. Media queries in CSS can be used to make a responsive website (e.g. when the window is between x pixels in width and y pixels in height, the webpage does "blank").
-2. Overflow of a variable can be hidden using the "overflow: hidden" syntax;
+2. Overflow of a variable can be hidden using the "overflow: hidden" syntax.
 
 ## Acknowledgments
 
